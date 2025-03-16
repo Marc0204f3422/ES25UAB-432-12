@@ -1,0 +1,7 @@
+Como: <Cliente/Repartidor/Cocinero>
+
+Quiero: <Funcionalidad del Software>
+
+Para: <Beneficio de dicha funcionalidad>
+
+Notas(Opcional): <Requerimientos adicionales de esta funcionalidad> 
