@@ -1,0 +1,19 @@
+﻿# Requirements Template 
+
+### ID: -- Identificador únic 
+RF-2-03
+
+### Type/Category: -- Tipus i Subtipus 
+RF, Cliente
+ 
+### Version: -- Número de versió 
+1.0
+ 
+### Title: -- Nom del requisit 
+Mostrar tiempo estimado de entrega para cada plato o menú
+
+### Description: -- Descripció del requisit 
+Se mostrará el tiempo estimando de entrega de cada plato o menú al lado del pedido.
+ 
+### Relations: -- Requisits relacionats 
+Pendiente
