@@ -1,0 +1,19 @@
+# Requirements Template 
+
+### ID: -- Identificador únic 
+RF-2-05
+
+### Type/Category: -- Tipus i Subtipus 
+Funcional
+ 
+### Version: -- Número de versió 
+1.0
+ 
+### Title: -- Nom del requisit 
+Ordenar platos/menús según la distancia entre el cliente y el cocinero
+
+### Description: -- Descripció del requisit 
+Al usuario le saldrán los platos o menús ordenados según la distancia entre el client y el cocinero
+ 
+### Relations: -- Requisits relacionats 
+Pendiente
